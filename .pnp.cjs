@@ -38,7 +38,7 @@ const RAW_RUNTIME_STATE =
           ["react", "npm:18.3.1"],\
           ["react-bootstrap", "virtual:2dae4a64cde9a8b65d4731ebb5e9dfbf872f930e91b81d6bdb18a510fb7821ac30b24449dc031cd2f4f138eb1cc8b4217ed266ebe381f712a0fee0c493162213#npm:2.10.2"],\
           ["react-dom", "virtual:2dae4a64cde9a8b65d4731ebb5e9dfbf872f930e91b81d6bdb18a510fb7821ac30b24449dc031cd2f4f138eb1cc8b4217ed266ebe381f712a0fee0c493162213#npm:18.3.1"],\
-          ["vite", "virtual:2dae4a64cde9a8b65d4731ebb5e9dfbf872f930e91b81d6bdb18a510fb7821ac30b24449dc031cd2f4f138eb1cc8b4217ed266ebe381f712a0fee0c493162213#npm:5.4.14"]\
+          ["vite", "virtual:2dae4a64cde9a8b65d4731ebb5e9dfbf872f930e91b81d6bdb18a510fb7821ac30b24449dc031cd2f4f138eb1cc8b4217ed266ebe381f712a0fee0c493162213#npm:5.4.19"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -932,7 +932,7 @@ const RAW_RUNTIME_STATE =
           ["@vitejs/plugin-react-swc", "virtual:2dae4a64cde9a8b65d4731ebb5e9dfbf872f930e91b81d6bdb18a510fb7821ac30b24449dc031cd2f4f138eb1cc8b4217ed266ebe381f712a0fee0c493162213#npm:3.6.0"],\
           ["@swc/core", "virtual:25f8e98f1e8f23f53541a88d6eeea9f5cd7ef89eb09ef78242cf7dd9fe1d99e59265620df3ad96145ccb54805b8994d626447bb12879683ce54383baf59489a3#npm:1.5.7"],\
           ["@types/vite", null],\
-          ["vite", "virtual:2dae4a64cde9a8b65d4731ebb5e9dfbf872f930e91b81d6bdb18a510fb7821ac30b24449dc031cd2f4f138eb1cc8b4217ed266ebe381f712a0fee0c493162213#npm:5.4.14"]\
+          ["vite", "virtual:2dae4a64cde9a8b65d4731ebb5e9dfbf872f930e91b81d6bdb18a510fb7821ac30b24449dc031cd2f4f138eb1cc8b4217ed266ebe381f712a0fee0c493162213#npm:5.4.19"]\
         ],\
         "packagePeers": [\
           "@types/vite",\
@@ -3281,7 +3281,7 @@ const RAW_RUNTIME_STATE =
           ["react", "npm:18.3.1"],\
           ["react-bootstrap", "virtual:2dae4a64cde9a8b65d4731ebb5e9dfbf872f930e91b81d6bdb18a510fb7821ac30b24449dc031cd2f4f138eb1cc8b4217ed266ebe381f712a0fee0c493162213#npm:2.10.2"],\
           ["react-dom", "virtual:2dae4a64cde9a8b65d4731ebb5e9dfbf872f930e91b81d6bdb18a510fb7821ac30b24449dc031cd2f4f138eb1cc8b4217ed266ebe381f712a0fee0c493162213#npm:18.3.1"],\
-          ["vite", "virtual:2dae4a64cde9a8b65d4731ebb5e9dfbf872f930e91b81d6bdb18a510fb7821ac30b24449dc031cd2f4f138eb1cc8b4217ed266ebe381f712a0fee0c493162213#npm:5.4.14"]\
+          ["vite", "virtual:2dae4a64cde9a8b65d4731ebb5e9dfbf872f930e91b81d6bdb18a510fb7821ac30b24449dc031cd2f4f138eb1cc8b4217ed266ebe381f712a0fee0c493162213#npm:5.4.19"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -4156,17 +4156,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["vite", [\
-      ["npm:5.4.14", {\
-        "packageLocation": "../../.yarn/berry/cache/vite-npm-5.4.14-4903607bfe-10c0.zip/node_modules/vite/",\
+      ["npm:5.4.19", {\
+        "packageLocation": "../../.yarn/berry/cache/vite-npm-5.4.19-6d369030b0-10c0.zip/node_modules/vite/",\
         "packageDependencies": [\
-          ["vite", "npm:5.4.14"]\
+          ["vite", "npm:5.4.19"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:2dae4a64cde9a8b65d4731ebb5e9dfbf872f930e91b81d6bdb18a510fb7821ac30b24449dc031cd2f4f138eb1cc8b4217ed266ebe381f712a0fee0c493162213#npm:5.4.14", {\
-        "packageLocation": "./.yarn/__virtual__/vite-virtual-99f58b1ace/3/.yarn/berry/cache/vite-npm-5.4.14-4903607bfe-10c0.zip/node_modules/vite/",\
+      ["virtual:2dae4a64cde9a8b65d4731ebb5e9dfbf872f930e91b81d6bdb18a510fb7821ac30b24449dc031cd2f4f138eb1cc8b4217ed266ebe381f712a0fee0c493162213#npm:5.4.19", {\
+        "packageLocation": "./.yarn/__virtual__/vite-virtual-4fcd96e943/3/.yarn/berry/cache/vite-npm-5.4.19-6d369030b0-10c0.zip/node_modules/vite/",\
         "packageDependencies": [\
-          ["vite", "virtual:2dae4a64cde9a8b65d4731ebb5e9dfbf872f930e91b81d6bdb18a510fb7821ac30b24449dc031cd2f4f138eb1cc8b4217ed266ebe381f712a0fee0c493162213#npm:5.4.14"],\
+          ["vite", "virtual:2dae4a64cde9a8b65d4731ebb5e9dfbf872f930e91b81d6bdb18a510fb7821ac30b24449dc031cd2f4f138eb1cc8b4217ed266ebe381f712a0fee0c493162213#npm:5.4.19"],\
           ["@types/less", null],\
           ["@types/lightningcss", null],\
           ["@types/node", null],\
